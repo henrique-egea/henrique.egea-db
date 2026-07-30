@@ -1,0 +1,32 @@
+1:
+Reduzir dores operacionais de nosso cliente
+2:
+Funcionários de empresa
+3:
+Existem 4
+4:
+Sim, todas possuem chave primária
+5:
+Sim. existem
+6:
+Ainda não
+7:
+Nenhuma
+8:
+Não
+9:
+Nenhum
+10:
+Nenhum
+11:
+No momento, nenhuma
+12:
+Nenhum
+13:
+Nenhum
+14:
+Depende da tabela
+Cachorro e dono podem ser usados pela recepcionista, enquanto só o gerente poderá ter acesso à funcionários
+
+melhorias:
+Fazer os queries SQL
